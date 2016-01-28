@@ -5,10 +5,12 @@ div{
 	border:10px solid violet;
 	margin-top: 10px;
 	margin-left: 10px;
+	background-image: url(http://thumbs.dreamstime.com/x/fondo-con-las-mariposas-y-las-flores-15074879.jpg);
 	}
 	.cubo2{
 		height: 210px;
 		width: 570px;
+		background: pink;
 	}
     .inline{
     	display: inline-block;
